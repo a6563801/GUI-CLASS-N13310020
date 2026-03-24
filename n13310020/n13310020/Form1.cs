@@ -16,5 +16,18 @@ namespace n13310020
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            if (btn_ClickMe.Text == "點三小")
+                    btn_ClickMe.Text = "按我一下";
+            else if (btn_ClickMe.Text == "按我一下")
+                    btn_ClickMe.Text = "點三小";
+        }
     }
 }
