@@ -29,5 +29,17 @@ namespace n13310020
             else if (btn_ClickMe.Text == "按我一下")
                     btn_ClickMe.Text = "點三小";
         }
+
+        private void button_ChangeButton_Click(object sender, EventArgs e)
+        {
+            lab_changebutton.Text="你還真的按?";
+        }
+
+        private void button_conter_Click(object sender, EventArgs e)
+        {
+            String count = label_conter.Text;
+            int sum = Int32.Parse(count)+1;
+            label_conter.Text = sum.ToString();
+        }
     }
 }
