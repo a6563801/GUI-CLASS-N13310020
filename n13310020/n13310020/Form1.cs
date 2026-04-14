@@ -41,5 +41,17 @@ namespace n13310020
             int sum = Int32.Parse(count)+1;
             label_conter.Text = sum.ToString();
         }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            new Formbtnbigger2().Show();
+             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string str = textBox1.Text;
+            label2.Text = str;
+        }
     }
 }
