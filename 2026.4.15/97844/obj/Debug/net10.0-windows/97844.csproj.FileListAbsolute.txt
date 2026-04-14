@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\97844\97844\bin\Debug\net10.0-windows\97844.exe
+C:\Users\USER\Desktop\97844\97844\bin\Debug\net10.0-windows\97844.deps.json
+C:\Users\USER\Desktop\97844\97844\bin\Debug\net10.0-windows\97844.runtimeconfig.json
+C:\Users\USER\Desktop\97844\97844\bin\Debug\net10.0-windows\97844.dll
+C:\Users\USER\Desktop\97844\97844\bin\Debug\net10.0-windows\97844.pdb
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\_97844.Form1.resources
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.AssemblyInfo.cs
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.dll
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\refint\97844.dll
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.pdb
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\97844.genruntimeconfig.cache
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\ref\97844.dll
+C:\Users\USER\Desktop\97844\97844\obj\Debug\net10.0-windows\_97844.Properties.Resources.resources
