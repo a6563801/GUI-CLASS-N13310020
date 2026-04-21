@@ -53,5 +53,10 @@ namespace n13310020
             string str = textBox1.Text;
             label2.Text = str;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form_calculator().Show();  
+        }
     }
 }
