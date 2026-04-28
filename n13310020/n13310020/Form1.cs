@@ -58,5 +58,15 @@ namespace n13310020
         {
             new Form_calculator().Show();  
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new Formbtnbigger2().Show();
+        }
+
+        private void lab_changebutton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

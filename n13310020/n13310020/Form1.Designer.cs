@@ -39,6 +39,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -73,6 +74,7 @@
             this.lab_changebutton.Size = new System.Drawing.Size(95, 35);
             this.lab_changebutton.TabIndex = 2;
             this.lab_changebutton.Text = "label2";
+            this.lab_changebutton.Click += new System.EventHandler(this.lab_changebutton_Click);
             // 
             // button_ChangeButton
             // 
@@ -109,9 +111,9 @@
             // 
             this.button1.Location = new System.Drawing.Point(294, 122);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(174, 67);
+            this.button1.Size = new System.Drawing.Size(343, 67);
             this.button1.TabIndex = 6;
-            this.button1.Text = "按我當機";
+            this.button1.Text = "按我 哈哈";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_2);
             // 
@@ -128,7 +130,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(494, 154);
+            this.label2.Location = new System.Drawing.Point(712, 154);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(95, 35);
             this.label2.TabIndex = 8;
@@ -151,11 +153,22 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(689, 447);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(205, 92);
+            this.button4.TabIndex = 11;
+            this.button4.Text = "期中考-攝氏轉華氏";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 35F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(993, 612);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
@@ -190,6 +203,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
     }
 }
 
