@@ -31,7 +31,7 @@ namespace n13310020
             double a = Int32.Parse(textBox1.Text);
 
             double sum = (a)*(9/5.0) + 32;
-            label2.Text =sum.ToString();
+            label2.Text =sum.ToString()+"F";
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -42,6 +42,11 @@ namespace n13310020
         private void Formbtnbigger2_Load(object sender, EventArgs e)
         {
             
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
