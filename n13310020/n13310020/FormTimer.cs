@@ -19,9 +19,9 @@ namespace n13310020
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            int counter = Int32.Parse(labeCounter.Text);
+            int counter = Int32.Parse(labeCounter.Text.Replace("秒", ""));
             counter+=1; //counter = counter+1;
-            labeCounter.Text = counter.ToString();
+            labeCounter.Text = counter.ToString()+"秒";
             
         }
     }
