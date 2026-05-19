@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|c:\\users\\user\\desktop\\gui-class-n13310020\\n13310020\\n13310020\\formtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\formtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\formtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\formtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\form calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\form calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\formtimer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\formtimer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\form calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\form calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\form calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\form calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\formbtnbigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\formbtnbigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D84D698-7714-4EA6-A7AB-10928DB76DB6}|n13310020\\n13310020.csproj|solutionrelative:n13310020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTimer.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.cs",
+              "RelativeDocumentMoniker": "n13310020\\FormTimer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "n13310020\\FormTimer.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:55.781Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTimer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.cs",
+              "RelativeDocumentMoniker": "n13310020\\FormTimer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.cs",
+              "RelativeToolTip": "n13310020\\FormTimer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvzYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form1.cs",
+              "RelativeDocumentMoniker": "n13310020\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form1.cs",
+              "RelativeToolTip": "n13310020\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAApwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Program.cs",
+              "RelativeDocumentMoniker": "n13310020\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Program.cs",
+              "RelativeToolTip": "n13310020\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formbtnbigger2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Formbtnbigger2.cs",
+              "RelativeDocumentMoniker": "n13310020\\Formbtnbigger2.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Formbtnbigger2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "n13310020\\Formbtnbigger2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form1.cs",
+              "RelativeDocumentMoniker": "n13310020\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "n13310020\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.314Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTimer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.Designer.cs",
+              "RelativeDocumentMoniker": "n13310020\\FormTimer.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\FormTimer.Designer.cs",
+              "RelativeToolTip": "n13310020\\FormTimer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form calculator.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.cs",
+              "RelativeDocumentMoniker": "n13310020\\Form calculator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "n13310020\\Form calculator.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form calculator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.cs",
+              "RelativeDocumentMoniker": "n13310020\\Form calculator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.cs",
+              "RelativeToolTip": "n13310020\\Form calculator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form calculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.Designer.cs",
+              "RelativeDocumentMoniker": "n13310020\\Form calculator.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\GUI-CLASS-N13310020\\n13310020\\n13310020\\Form calculator.Designer.cs",
+              "RelativeToolTip": "n13310020\\Form calculator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:51:23.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
