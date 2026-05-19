@@ -68,5 +68,10 @@ namespace n13310020
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new FormTimer().Show();
+        }
     }
 }
