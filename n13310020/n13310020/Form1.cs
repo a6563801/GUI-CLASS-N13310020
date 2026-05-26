@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace n13310020
 {
@@ -72,6 +73,16 @@ namespace n13310020
         private void button5_Click(object sender, EventArgs e)
         {
             new FormTimer().Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new checkbox().Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            new FormLayout().Show();
         }
     }
 }
