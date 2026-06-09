@@ -76,6 +76,12 @@
     <Compile Include="FormLayout.Designer.cs">
       <DependentUpon>FormLayout.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formmune.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmune.Designer.cs">
+      <DependentUpon>Formmune.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTimer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormLayout.resx">
       <DependentUpon>FormLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmune.resx">
+      <DependentUpon>Formmune.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTimer.resx">
       <DependentUpon>FormTimer.cs</DependentUpon>
